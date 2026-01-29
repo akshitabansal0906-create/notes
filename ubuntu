@@ -1,0 +1,5 @@
+ls for listing all the folders
+cd for changing dirictory
+cat "file.txt"  to see contents of the file in cli
+pwd to check where we are gives the path of our location
+for using cat we first need to ne in the dirictory which contains that file using cd "foldername".
