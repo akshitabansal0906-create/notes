@@ -3,3 +3,7 @@ cd for changing dirictory
 cat "file.txt"  to see contents of the file in cli
 pwd to check where we are gives the path of our location
 for using cat we first need to ne in the dirictory which contains that file using cd "foldername".
+& to run any command in background
+&& to concatenate any two commands to work together
+"text i want to be replaced with" > "file name"
+"text i want to add to the file" >> "file name" .
